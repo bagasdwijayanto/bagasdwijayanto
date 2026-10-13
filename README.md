@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Bagas — Web Developer dari Indonesia<br>✨ Creating bugs since 2019<br>✨ Menciptakan bug sejak 2019 (tapi sambil belajar membetulkannya juga!)<br><br>📚 I'm currently learning Laravel, REST APIs, and clean code architecture<br>📚 Saat ini sedang mendalami Laravel, API, dan arsitektur clean code<br><br>🎯 Goals: To become a full-stack developer who builds meaningful, scalable apps<br>🎯 Tujuan: Menjadi full-stack developer yang membangun aplikasi bermanfaat dan scalable<br><br>🎲 Fun fact: I debug better after coffee... or a nap. Sometimes both.<br>🎲 Fakta unik: Nge-debug paling jago setelah kopi... atau tidur siang. Kadang dua-duanya.</p>
+<p align="left">🎓 Bagas — Web Developer dari Indonesia<br>✨ Creating bugs since 2019<br>📚 I'm currently learning Laravel, REST APIs, and clean code architecture<br>🎯 Goals: To become a full-stack developer who builds meaningful, scalable apps<br>🎲 Fun fact: I debug better after coffee... or a nap. Sometimes both.</p>
 
 ###
 
