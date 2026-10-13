@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, my name is Bagas. I'm a web developer from Indonesia</p>
+<p align="left">Hi, my name is Bagas. I'm a Fullstack developer from Indonesia</p>
 
 ###
 
